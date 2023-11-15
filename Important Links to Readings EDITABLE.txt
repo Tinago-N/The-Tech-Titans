@@ -8,3 +8,11 @@ https://medium.com/@taremyor/rooftop-solar-potential-assessment-using-gis-and-ph
 
 The data from meteoblue is accessible on this link
 https://queueresults.meteoblue.com/DC9F475D-C784-494C-B9FE-16E15B041B23
+
+
+Research review "DEGREE PROJECT IN TECHNOLOGY, SECOND CYCLE, 30 CREDITS STOCKHOLM, SWEDEN 2022 Solar electricity potential at a district level: a case study of Västervik, Sweden":
+https://www.diva-portal.org/smash/get/diva2:1736950/FULLTEXT01.pdf
+
+
+Data source for monthly/yearly data demand and cost of 85 geographies
+https://ember-climate.org/data/data-catalogue/
