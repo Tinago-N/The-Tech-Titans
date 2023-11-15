@@ -4,3 +4,7 @@ https://www.witpress.com/Secure/elibrary/papers/SC12/SC12057FU2.pdf
 
 Article about “Rooftop Solar Energy Potential Assessment using GIS and Photogrammetry: Case Study of Karaman Province/Turkiye” with some of the necessary formulas:
 https://medium.com/@taremyor/rooftop-solar-potential-assessment-using-gis-and-photogrammetry-case-study-of-karaman-turkiye-f179494c671c
+
+
+The data from meteoblue is accessible on this link
+https://queueresults.meteoblue.com/DC9F475D-C784-494C-B9FE-16E15B041B23
