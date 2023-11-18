@@ -20,3 +20,7 @@ https://ember-climate.org/data/data-catalogue/
 
 Dataset donwload link for time series 2000 to 2023
 https://queueresults.meteoblue.com/DAF432DE-4801-429F-AFB2-0111215AA353
+
+
+Open Metio Upington data
+https://open-meteo.com/en/docs/historical-weather-api#latitude=-28.4478&longitude=21.2561&start_date=2000-01-10&end_date=2023-11-17&hourly=shortwave_radiation,direct_radiation,diffuse_radiation&daily=&timezone=Africa%2FCairo&models=
