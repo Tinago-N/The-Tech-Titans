@@ -24,3 +24,11 @@ https://queueresults.meteoblue.com/DAF432DE-4801-429F-AFB2-0111215AA353
 
 Open Metio Upington data
 https://open-meteo.com/en/docs/historical-weather-api#latitude=-28.4478&longitude=21.2561&start_date=2000-01-10&end_date=2023-11-17&hourly=shortwave_radiation,direct_radiation,diffuse_radiation&daily=&timezone=Africa%2FCairo&models=
+
+
+Weather Codes Meaning
+https://www.nodc.noaa.gov/archive/arc0021/0002199/1.1/data/0-data/HTML/WMO-CODE/WMO4677.HTM
+
+
+Global PVOUT average results
+https://globalsolaratlas.info/global-pv-potential-study
